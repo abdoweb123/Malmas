@@ -1,0 +1,15 @@
+{
+	"About": true,
+	"Admin": true,
+	"Client": true,
+	"Contact": true,
+	"Country": true,
+	"Setting": true,
+	"Slider": true,
+	"Product": true,
+	"Service": true,
+	"Subscriber": true,
+	"Package": true,
+	"Item": true
+
+}
